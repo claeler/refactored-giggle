@@ -1,0 +1,19 @@
+{
+    "name": "lenwy",
+    "version": "1.0",
+    "description": "Lenwy Bot WhatsApp",
+    "main": "index.js",
+    "scripts": {
+        "authhor": "Lenwy",
+        "license": "MIT",
+        "start": "node index.js"
+    },
+
+    "dependencies": {
+        "baileys": "6.7.17",
+        "axios": "^1.4.0",
+        "chalk": "^4.1.2",
+        "pino": "^8.14.1",
+        "readline": "1.3.0"
+    }
+}
